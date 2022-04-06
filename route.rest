@@ -1,1 +1,1 @@
-GET http://localhost:3000/checkIMEI/1234567890
+GET http://localhost:3000/checkIMEI/490154203237518
